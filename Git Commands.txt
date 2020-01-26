@@ -10,3 +10,4 @@ git add *.file: adds all files with the same extention
 git add .: adds all files
 clear: clears the command git
 git branch: create branch
+git checkout: changes branches
