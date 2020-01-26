@@ -1,0 +1,10 @@
+git init: Initialize local git repository
+git add <file>: Add files to index
+git status: check status of working tree
+git commmit: Commit changes in index
+git push: Push to remote Repository (Github)
+git pull: Pull latest from remote repository (Get newest version)
+git clone: Clone repository into a new directory
+git touch: create file
+git add *.file: adds all files with the same extention
+git add .: adds all files
