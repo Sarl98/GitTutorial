@@ -8,3 +8,4 @@ git clone: Clone repository into a new directory
 git touch: create file
 git add *.file: adds all files with the same extention
 git add .: adds all files
+clear: clears the command git
